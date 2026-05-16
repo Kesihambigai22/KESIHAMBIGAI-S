@@ -12,8 +12,8 @@
 ## 🚀 Projects
 🔹 Autonomous Fire-Fighting Robot  
 🔹 FPGA-Based Elevator Controller  
-🔹 Motor Health Monitoring System (Ongoing)  
-🔹 AI-Based Vehicle Safety System (Ongoing)  
+🔹 Motor Health Monitoring System   
+🔹 AI-Based Vehicle Safety System  
 
 ## 🛠️ Skills
 Embedded C | Arduino | ESP32 | Verilog  
